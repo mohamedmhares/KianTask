@@ -27,15 +27,15 @@ export class EmployeeComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.loadEmployees(); // Load employees on component initialization
+    this.loadEmployees();
   }
 
   loadEmployees() {
     this.employeeService.getEmployees().subscribe({
         next: (response) => {
-            console.log('API Response:', response); // Log the entire response
-            this.employees =response.data; // Ensure this is an array
-            console.log('Employees:', this.employees); // Log the employees array
+            console.log('API Response:', response); 
+            this.employees =response.data; 
+            console.log('Employees:', this.employees); 
         },
         error: (err) => {
             console.error('Error fetching employees', err);
@@ -50,12 +50,12 @@ export class EmployeeComponent implements OnInit {
     this.showAddForm = true;
     this.showEditForm = false;
     this.currentEmployeeId = null;
-    this.employeeForm.reset(); // Reset the form for new entry
+    this.employeeForm.reset();
   }
 
   deleteEmployee(id: number) {
     this.employeeService.deleteEmployee(id).subscribe(() => {
-      this.loadEmployees(); // Refresh the list after deletion
+      this.loadEmployees(); 
     });
   }
 
@@ -64,7 +64,7 @@ export class EmployeeComponent implements OnInit {
     this.showAddForm = false;
     this.currentEmployeeId = employee.id;
 
-    // Populate the form with the selected employee data
+    
     this.employeeForm.patchValue({
       firstName: employee.firstName,
       lastName: employee.lastName,
@@ -76,12 +76,12 @@ export class EmployeeComponent implements OnInit {
   onSubmit() {
     if (this.showAddForm) {
       this.employeeService.addEmployee(this.employeeForm.value).subscribe(() => {
-        this.loadEmployees(); // Refresh the list after adding
+        this.loadEmployees(); 
         this.cancel();
       });
     } else if (this.showEditForm && this.currentEmployeeId) {
       this.employeeService.updateEmployee(this.currentEmployeeId, this.employeeForm.value).subscribe(() => {
-        this.loadEmployees(); // Refresh the list after updating
+        this.loadEmployees(); 
         this.cancel();
       });
     }
@@ -91,6 +91,6 @@ export class EmployeeComponent implements OnInit {
     this.showAddForm = false;
     this.showEditForm = false;
     this.currentEmployeeId = null;
-    this.employeeForm.reset(); // Reset the form
+    this.employeeForm.reset();
   }
 }
