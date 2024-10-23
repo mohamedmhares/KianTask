@@ -33,12 +33,6 @@ The project is structured in layers to separate concerns:
 ## Frontend Development
 - **Angular**: The frontend is built using Angular, with **Reactive Forms** for managing employee input and **Bootstrap** for responsive design.
 
-## Software Practices
-
-- **Naming Conventions**: Consistent and descriptive naming conventions are used throughout the codebase, improving readability and maintainability. Class names, methods, variables, and files follow standard naming rules (e.g., `PascalCase` for classes and `camelCase` for variables).
-  
-- **Code Linting**: Code linting is implemented using tools like **ESLint** for Angular and **StyleCop** for ASP.NET. These ensure code quality, consistency, and adherence to predefined coding standards by automatically flagging issues such as incorrect formatting, unused variables, and other best practice violations.
-
 ## Best Practices
 - **Dependency Injection**: Ensures modularity and testability.
 - **RESTful API**: The backend uses a RESTful API to handle CRUD operations.
