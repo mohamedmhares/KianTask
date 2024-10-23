@@ -37,7 +37,7 @@ The project is structured in layers to separate concerns:
 - **Dependency Injection**: Ensures modularity and testability.
 - **RESTful API**: The backend uses a RESTful API to handle CRUD operations.
 - **Asynchronous Programming**: Enhances performance in the frontend API calls.
-- - **Naming Conventions**: Consistent and descriptive naming conventions are used throughout the codebase, improving readability and maintainability. Class names, methods, variables, and files follow standard naming rules (e.g., `PascalCase` for classes and `camelCase` for variables).
+- **Naming Conventions**: Consistent and descriptive naming conventions are used throughout the codebase, improving readability and maintainability. Class names, methods, variables, and files follow standard naming rules (e.g., `PascalCase` for classes and `camelCase` for variables).
 - **Code Linting**: Code linting ensure code quality, consistency, and adherence to predefined coding standards by automatically flagging issues such as incorrect formatting, unused variables, and other best practice violations.
 
 ## Prerequisites
