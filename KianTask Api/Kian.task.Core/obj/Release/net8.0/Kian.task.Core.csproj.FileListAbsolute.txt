@@ -1,0 +1,11 @@
+D:\Kiantask\KianTask Api\Kian.task.Core\bin\Release\net8.0\Kian.task.Core.deps.json
+D:\Kiantask\KianTask Api\Kian.task.Core\bin\Release\net8.0\Kian.task.Core.dll
+D:\Kiantask\KianTask Api\Kian.task.Core\bin\Release\net8.0\Kian.task.Core.pdb
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.AssemblyInfoInputs.cache
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.AssemblyInfo.cs
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.csproj.CoreCompileInputs.cache
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.dll
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\refint\Kian.task.Core.dll
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\Kian.task.Core.pdb
+D:\Kiantask\KianTask Api\Kian.task.Core\obj\Release\net8.0\ref\Kian.task.Core.dll

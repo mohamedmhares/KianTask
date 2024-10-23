@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kiantask\\KianTask Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\specifications\\employeespecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\specifications\\employeespecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\data\\genericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\data\\genericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\data\\employeerebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\data\\employeerebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|d:\\kiantask\\kiantask api\\kian.task.presentation\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19539937-E122-45DB-A53A-8BA94C37C96A}|Kian.Task.Presentation\\Kian.Task.Presentation.csproj|solutionrelative:kian.task.presentation\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\interfaces\\iemployeerebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\interfaces\\iemployeerebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\specifications\\employeewithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\specifications\\employeewithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\interfaces\\igenericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\interfaces\\igenericrebository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|d:\\kiantask\\kiantask api\\kian.task.core\\kian.task.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B444F9B6-4BAD-4984-96B1-60005F46A0C6}|Kian.task.Core\\Kian.task.Core.csproj|solutionrelative:kian.task.core\\kian.task.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\kian.task.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\kian.task.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|d:\\kiantask\\kiantask api\\kian.task.infrastructure\\migrations\\20241017005906_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711054C9-9D74-4497-8504-671341A44F46}|Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj|solutionrelative:kian.task.infrastructure\\migrations\\20241017005906_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 66,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3b09462-361e-4675-acc6-e0732f84d521}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Kian.Task.Presentation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:49:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "Kian.Task.Presentation\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:40:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\Helper\\MappingProfile.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Kian.Task.Presentation\\Helper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:54:26.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Helper\\Pagination.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\Helper\\Pagination.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Helper\\Pagination.cs",
+              "RelativeToolTip": "Kian.Task.Presentation\\Helper\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:22:38.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRebository.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\EmployeeRebository.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Data\\EmployeeRebository.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\EmployeeRebository.cs",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Data\\EmployeeRebository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:10:44.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRebository.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\GenericRebository.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Data\\GenericRebository.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\GenericRebository.cs",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Data\\GenericRebository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:37:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\Program.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\Program.cs",
+              "RelativeToolTip": "Kian.Task.Presentation\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:40:59.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeSpecParams.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\EmployeeSpecParams.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Specifications\\EmployeeSpecParams.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\EmployeeSpecParams.cs",
+              "RelativeToolTip": "Kian.task.Core\\Specifications\\EmployeeSpecParams.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:17:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241017005906_init.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Migrations\\20241017005906_init.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Migrations\\20241017005906_init.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Migrations\\20241017005906_init.cs",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Migrations\\20241017005906_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:59:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Kian.Task.Presentation\\appsettings.json",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Presentation\\appsettings.json",
+              "RelativeToolTip": "Kian.Task.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T23:49:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Data\\EmpDbContext.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\EmpDbContext.cs",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Data\\EmpDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:33:09.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRebository.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Interfaces\\IEmployeeRebository.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Interfaces\\IEmployeeRebository.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Interfaces\\IEmployeeRebository.cs",
+              "RelativeToolTip": "Kian.task.Core\\Interfaces\\IEmployeeRebository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:05.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:49:13.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Kian.task.Core\\Specifications\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:15:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeWithSpecifications.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\EmployeeWithSpecifications.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Specifications\\EmployeeWithSpecifications.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\EmployeeWithSpecifications.cs",
+              "RelativeToolTip": "Kian.task.Core\\Specifications\\EmployeeWithSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:20:16.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Kian.task.Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:14:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRebository.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Interfaces\\IGenericRebository.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Interfaces\\IGenericRebository.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Interfaces\\IGenericRebository.cs",
+              "RelativeToolTip": "Kian.task.Core\\Interfaces\\IGenericRebository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:04:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "Kian.task.Core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:56:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Kian.Task.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj",
+              "RelativeToolTip": "Kian.Task.Infrastructure\\Kian.Task.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T22:01:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kian.task.Core.csproj",
+              "DocumentMoniker": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Kian.task.Core.csproj",
+              "RelativeDocumentMoniker": "Kian.task.Core\\Kian.task.Core.csproj",
+              "ToolTip": "D:\\Kiantask\\KianTask Api\\Kian.task.Core\\Kian.task.Core.csproj",
+              "RelativeToolTip": "Kian.task.Core\\Kian.task.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T21:54:59.22Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 334,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

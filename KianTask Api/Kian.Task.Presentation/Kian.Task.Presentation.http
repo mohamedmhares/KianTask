@@ -1,0 +1,6 @@
+@Kian.Task.Presentation_HostAddress = http://localhost:5082
+
+GET {{Kian.Task.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

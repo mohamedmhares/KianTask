@@ -1,0 +1,17 @@
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.Task.Infrastructure.deps.json
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.Task.Infrastructure.runtimeconfig.json
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.Task.Infrastructure.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.task.Core.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Release\net8.0\Kian.task.Core.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.csproj.AssemblyReference.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.AssemblyInfoInputs.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.AssemblyInfo.cs
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Tas.3DA9F34F.Up2Date
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\refint\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\Kian.Task.Infrastructure.genruntimeconfig.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Release\net8.0\ref\Kian.Task.Infrastructure.dll

@@ -1,0 +1,68 @@
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.deps.json
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Tas.3DA9F34F.Up2Date
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\refint\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\Kian.Task\Kian.Task.Infrastructure\obj\Debug\net8.0\ref\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.deps.json
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Tas.3DA9F34F.Up2Date
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\refint\Kian.Task.Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Kian Task\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\ref\Kian.Task.Infrastructure.dll
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.deps.json
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.runtimeconfig.json
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.dll
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.pdb
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.dll
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.pdb
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfo.cs
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Tas.3DA9F34F.Up2Date
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.dll
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\refint\Kian.Task.Infrastructure.dll
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.pdb
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.genruntimeconfig.cache
+D:\New folder\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\ref\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.deps.json
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.runtimeconfig.json
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.Task.Infrastructure.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\bin\Debug\net8.0\Kian.task.Core.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.AssemblyReference.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfoInputs.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.AssemblyInfo.cs
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Tas.3DA9F34F.Up2Date
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\refint\Kian.Task.Infrastructure.dll
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.pdb
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\Kian.Task.Infrastructure.genruntimeconfig.cache
+D:\Kiantask\KianTask Api\Kian.Task.Infrastructure\obj\Debug\net8.0\ref\Kian.Task.Infrastructure.dll
