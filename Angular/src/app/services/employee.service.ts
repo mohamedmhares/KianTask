@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { map } from 'rxjs/operators';  // Importing the map operator
+import { map } from 'rxjs/operators';
 import { Employee } from '../models/employee.model';
 import { Pagination } from '../models/pagination';
 
@@ -9,11 +9,11 @@ import { Pagination } from '../models/pagination';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private apiUrl = 'https://localhost:7050/api/Employee'; // Base URL for your API
+  private apiUrl = 'https://localhost:7050/api/Employee';
 
   constructor(private http: HttpClient) {}
 
-  getEmployees(): Observable<any> { // Change to any if you want to handle response directly
+  getEmployees(): Observable<any> { 
     return this.http.get<any>(`${this.apiUrl}/all`);
 }
   // Fetch a single employee by ID
